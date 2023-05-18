@@ -41,10 +41,10 @@
 
 
 <img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
 
 **Operating Systems**
 
