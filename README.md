@@ -1,8 +1,7 @@
 <h1 align='left'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ullahsamee}1212%2Fhit-counter" />
   </a>&nbsp;&nbsp;
-  <img src="https://gists-readme.yizack.com/api/pin?user={ullahsamee}&id={gist_id}&owner=true" />
-  </a>&nbsp;&nbsp;
+  
 
 <h1 align='center'>
   Hi there 👋 I'm Samee 👨‍💻
