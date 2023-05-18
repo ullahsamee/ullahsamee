@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ullahsamee&show_icons=true)
+![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ullahsamee&show_icons=true)
 
 
 <h1 align='left'>
