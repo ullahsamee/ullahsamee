@@ -1,10 +1,9 @@
 <h1 align='left'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ullahsamee}1212%2Fhit-counter" />
   </a>&nbsp;&nbsp;
-  
 
 <h1 align='center'>
-  Hi there 👋 I'm Samee 👨‍💻
+  Hi 👋 I'm Samee 👨‍💻
   </h1>
 
 <p align='center'>
@@ -45,7 +44,6 @@
 </details>-->
 
 
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
