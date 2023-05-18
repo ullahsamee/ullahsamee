@@ -31,8 +31,6 @@
   
 </p>
 
-
-
 <p align='center'>
   💻 My workspace spec<br/><br/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
