@@ -8,10 +8,8 @@
   </h1>
 
 <p align='center'>
-  A Structural Biologist from Pakistan.
+**Structural Biologist**
 </p>
-
-
 
 <p align='center'>
   
