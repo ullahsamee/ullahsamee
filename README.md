@@ -5,6 +5,7 @@
   </a>&nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={ullahsamee}&theme={theme_name}" />
   </a>&nbsp;&nbsp;
+</h1>
 
 <h1 align='center'>
   Hi there 👋 I'm Samee 👨‍💻
