@@ -56,10 +56,8 @@
 </details>-->
 
 
-<img align="right" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Fedora_Scientific_38-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 
 **Operating Systems**
 
