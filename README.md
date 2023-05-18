@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/lenovo%20Legion_5Pro_laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-RTX%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-RTX%203070_140W-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <!-- <details align='center'>
