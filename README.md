@@ -1,5 +1,5 @@
+![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=ullahsamee&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ullahsamee&show_icons=true)
 
 <h1 align='left'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ullahsamee}1212%2Fhit-counter" />
