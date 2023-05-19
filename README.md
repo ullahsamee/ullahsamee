@@ -17,8 +17,11 @@
 
 <p align='center'>
 I am a Structural Biologist! 
-  
+
+<p align='center'>
+
 Deep interest in proteins and nucleic acid structures, their interactions with peptides, small molecules and membranes. My passion for exploring the intricate world of biomolecular structures drives me to dive deep into their complexities using state-of-the-art tools and technique. I possess advanced expertise in the areas of structural modeling, design, simulations and binding energy. I welcome research projects & working together on some exciting proteins structures.
+
 </p>
 
 <p align='center'>
