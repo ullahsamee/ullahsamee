@@ -16,7 +16,7 @@
   </h1>
 
 <p align='center'>
-I am a Structural Biologist! 
+- Structural Biologist -  
 
 <p align='left'>
 
