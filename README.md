@@ -1,4 +1,12 @@
+
 ![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ullahsamee&show_icons=true)
+
+<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/master/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ullahsamee/count.svg" />
+</p>
 
 <h1 align='left'>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ullahsamee}1212%2Fhit-counter" />
