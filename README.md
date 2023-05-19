@@ -7,6 +7,7 @@
 
 <h1 align='center'>
   Hi 👋 I'm Samee 👨‍💻
+  <img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/coding.gif?raw=true" width="408" height="318" />
   </h1>
 
 <p align='center'>
