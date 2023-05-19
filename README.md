@@ -1,7 +1,7 @@
 
-![Anurag's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ullahsamee&show_icons=true)
 
-<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/master/banner.png" alt="Hello world">
+
+<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
