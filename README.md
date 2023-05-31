@@ -50,6 +50,9 @@ Deep interest in proteins and nucleic acid structures, their interactions with p
   <a href="https://ullahsamee.github.io">
     <img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=Portfolio&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://ullahsamee.github.io/photography">
+    <img src="https://img.shields.io/badge/Photography-8B89CC?style=for-the-badge&logo=Photography&logoColor=white" />        
+  </a>&nbsp;&nbsp;
   
 </p>
 
