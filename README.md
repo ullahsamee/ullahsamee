@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/protein.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
