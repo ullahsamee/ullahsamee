@@ -15,12 +15,9 @@
   <img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/coding.gif?raw=true" width="408" height="318" />
   </h1>
 
-<p align='center'>
-- Structural Biologist -  
-
 <p align='left'>
 
-Deep interest in proteins and nucleic acid structures, their interactions with peptides, small molecules and membranes. My passion for exploring the intricate world of biomolecular structures drives me to dive deep into their complexities using state-of-the-art tools and technique. I possess advanced expertise in the areas of structural modeling, design, simulations and binding energy. I welcome research projects & working together on some exciting proteins structures.
+Proteins structures are amazing. They fold and interact with other molecules in intricate ways that determine their functions and roles in health and disease. I love to explore these fascinating biomolecular systems using state-of-the-art methods and approaches. I have a strong background in structural modeling, de-novo design, simulations and binding affinity. I am always eager to collaborate on research projects that involve some exciting proteins structures.
 
 </p>
 
@@ -91,7 +88,7 @@ Deep interest in proteins and nucleic acid structures, their interactions with p
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+Pick a slot if you'd like to meet me and chat about protein structures or anything you are passionate about -
 
 <a href="https://calendly.com/sameeullah/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
