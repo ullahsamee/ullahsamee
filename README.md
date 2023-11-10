@@ -93,5 +93,5 @@ Pick a slot if you'd like to meet me and chat about protein structures or anythi
 <a href="https://calendly.com/sameeullah/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <p align='left'>
-  📫 How to reach me: <a href='mailto:s.ullah@nih.org.pk'>s.ullah@nih.org.pk</a>
+  📫 How to reach me: <a href='mailto:sameeullah@bs.qau.edu.pk'>s.ullah@nih.org.pk</a>
 </p>
