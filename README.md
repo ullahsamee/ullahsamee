@@ -17,20 +17,12 @@
 
 <p align='left'>
 
-Proteins structures are amazing. They fold and interact with other molecules in intricate ways that determine their functions and roles in health and disease. I love to explore these fascinating biomolecular systems using state-of-the-art methods and approaches. I have a strong background in structural modeling, de-novo design, simulations and binding affinity. I am always eager to collaborate on research projects that involve some exciting proteins structures.
-
 </p>
 
 <p align='left'>
   
   <a href="https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://orcid.org/0000-0003-1987-3672">
-    <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/Samee-Ullah-11">
-    <img src="https://img.shields.io/badge/Researchgate-0DBD8B?style=for-the-badge&logo=Researchgate&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/CryoKhan">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -39,13 +31,7 @@ Proteins structures are amazing. They fold and interact with other molecules in 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/https://www.instagram.com/memento.m_o_r_i">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.kolabtree.com/find-an-expert?profile=samee-u.">
-    <img src="https://img.shields.io/badge/Kolabtree-000000?style=for-the-badge&logo=Kolabtree&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://ullahsamee.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-21759B?style=for-the-badge&logo=Portfolio&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
   </a>&nbsp;&nbsp;
   <a href="https://ullahsamee.github.io/photography">
     <img src="https://img.shields.io/badge/Photography-8B89CC?style=for-the-badge&logo=Photography&logoColor=white" />        
@@ -78,7 +64,7 @@ Proteins structures are amazing. They fold and interact with other molecules in 
 
 
 <img align="right" src="https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora_Scientific_38-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Fedora_Scientific_40-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 
 **Operating Systems**
 
