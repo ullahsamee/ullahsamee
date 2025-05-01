@@ -24,16 +24,13 @@
   <a href="https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/CryoKhan">
+  <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/samee-ullah-6a6b40219/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/https://www.instagram.com/memento.m_o_r_i">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />              
-  </a>&nbsp;&nbsp;
-  <a href="https://ullahsamee.github.io/photography">
+  <a href="https://ullahsamee.github.io/">
     <img src="https://img.shields.io/badge/Photography-8B89CC?style=for-the-badge&logo=Photography&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -50,21 +47,10 @@
 </p>
 
 
-<p align='left'>
-  💻 <br/><br/>
-  <img src="https://img.shields.io/badge/lenovo%20Legion_5Pro_laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen_7_5800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-RTX%203070_140W-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
 </details>-->
 
-
-<img align="right" src="https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Fedora_Scientific_40-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 
 **Operating Systems**
 
