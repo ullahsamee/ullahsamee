@@ -29,13 +29,15 @@ Computational Structural biologist - expertise and deep interest in protein desi
 </details>-->
 
 
-### 📫 Like to meet me?
+### 📫 How to meet me?
 
 Pick a slot if you'd like to meet me and chat about protein structure and design.
 <a href="https://calendly.com/sameeullah/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <p align='left'>
-📫 How to reach me: <h3>Where to find me</h3>
-<p><a href="https://www.linkedin.com/in/ullah-samee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </a>&nbsp;&nbsp;
+📫 <h3>Where to find me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ullah-samee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ullah-samee" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 </p>
+
