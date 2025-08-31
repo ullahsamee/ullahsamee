@@ -14,21 +14,6 @@
 </p>
 
 <p align='left'>
-  
-  <a href="https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://ullahsamee.github.io/">
-    <img src="https://img.shields.io/badge/Photography-8B89CC?style=for-the-badge&logo=Photography&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
 
 ## Skills
 
@@ -47,10 +32,13 @@
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about protein structures or anything you are passionate about -
-
+Pick a slot if you'd like to meet me and chat about protein structure and design.
 <a href="https://calendly.com/sameeullah/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 <p align='left'>
-  📫 How to reach me: 
+📫 How to reach me: <h3>Where to find me</h3>
+<p><a href="https://www.linkedin.com/in/ullah-samee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=wtuV29QAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
