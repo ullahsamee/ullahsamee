@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/proteinn.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/protein.jpeg" alt="Hello world">
 
 ---
 
