@@ -19,7 +19,7 @@ Computational Structural biologist, strong expertise and deep interest in protei
 
 <img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/coding.gif?raw=true" width="408" height="318" />
 
-## Skills
+## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
