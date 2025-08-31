@@ -10,7 +10,9 @@
   Hi there, I'm <a href="https://github.com/ullahsamee" target="_blank">@SameeUllah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 </h1>
 
-Computational Structural biologist - expertise and deep interest in protein design, small molecule design, interactions and dynamics to engineer novel therapeutics. I am particularly crazy about projects that bridge the gap between computational predictions and experimental validation, finding true excitement in seeing computational designs come to life in the lab.
+  <samp>
+Computational Structural biologist, strong expertise and deep interest in protein design, small molecule design, interactions and dynamics to engineer novel biomolecules. I am particularly crazy about projects that bridge the gap between computational predictions and experimental validation, finding true excitement in seeing the designs come to life in the lab.
+  </samp>
 
 <img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/coding.gif?raw=true" width="408" height="318" />
 
