@@ -1,13 +1,6 @@
 <img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/proteinn.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ullahsamee/count.svg" />
-</p>
-
-<h1 align='left'>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ullahsamee}1212%2Fhit-counter" />
-  </a>&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=ullahsamee&label=My+Profile+Visits&color=green)
 
 <h1 align='center'>
   Hi there, I'm <a href="https://github.com/ullahsamee" target="_blank">@SameeUllah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
