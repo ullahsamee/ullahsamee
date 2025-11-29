@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/protein.jpeg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/proteinn.jpeg" alt="Hello world">
 
 ---
 
@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align='center'>
-  Hi there, I'm <a href="https://github.com/ullahsamee" target="_blank">@SameeUllah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
+  Hi there... <a href="https://github.com/ullahsamee" target="_blank"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
 </h1>
 
 [![GitHub ullahsamee](https://img.shields.io/github/followers/ullahsamee?label=follow&style=social)](https://github.com/ullahsamee)
