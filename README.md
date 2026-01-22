@@ -1,10 +1,4 @@
-<img src="https://raw.githubusercontent.com/ullahsamee/ullahsamee/main/proteinn.jpeg" alt="Hello world">
-
----
-
-<h1 align='center'>
-<img src="https://profile-counter.deno.dev/ullahsamee/count.svg" alt="ullahsamee: Visitor's Count" />
-</h1>
+![](https://komarev.com/ghpvc/?username=ullahsamee&color=007ec6&style=flat-square&label=VISITORS)
 
 <h1 align='center'>
   Hi there... <a href="https://github.com/ullahsamee" target="_blank"></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=2.5% height=2.5%>
