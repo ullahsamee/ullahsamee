@@ -11,7 +11,7 @@
 Computational Structural biologist, strong expertise and deep interest in protein design, small molecule design, interactions and dynamics to engineer novel biomolecules. I am particularly crazy about projects that bridge the gap between computational predictions and experimental validation, finding true excitement in seeing the designs come to life in the lab.
   </samp>
 
-<img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/proteinn_compressed.gif?raw=true" width="408" height="318" />
 
 ## Computational Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ![](https://img.shields.io/badge/Protein%20Design-20B2AA?style=for-the-badge)
