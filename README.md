@@ -34,18 +34,20 @@ Computational Structural biologist, strong expertise and deep interest in protei
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
 ![GUI Development](https://img.shields.io/badge/GUI%20Development-FF6B6B?logo=windows&logoColor=white&style=for-the-badge)
 
-## Biochemistry Skills 
-![](https://img.shields.io/badge/Protein%20Expression%20and%20Purification-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Ni--NTA%20Chromatography-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/FPLC-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Sonication-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/SDS--PAGE-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/PD--10%20Desalting-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/MST%20Affinity%20Analysis-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Nano%20Drop-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Cryosectioning-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Centrifugation-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Media/Gel%20Preparation-20B2AA?style=for-the-badge)
+## 🧫 Experimental Lab Skills
+
+<samp>
+
+- Protein Expression & Purification  
+- Ni-NTA Chromatography & FPLC  
+- SDS-PAGE, Sonication & Desalting  
+- MST Binding Affinity Analysis  
+- Cryosectioning & NanoDrop Measurements  
+- Standard Wet Lab Workflows  
+
+</samp>
+
+---
 
 ### 📫 How to meet me?
 Pick a slot if you'd like to meet me and chat about protein structure and design.
