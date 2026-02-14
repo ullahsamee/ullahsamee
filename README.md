@@ -14,7 +14,7 @@
 </div>
 
 ## Computational Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/proteinn_compressed.gif?raw=true" width="600" height="400" />
+<img align="right" alt="GIF" src="https://github.com/ullahsamee/ullahsamee/blob/main/proteinn_compressed.gif?raw=true" width="500" height="300" />
 
 ![](https://img.shields.io/badge/Protein%20Design-20B2AA?style=flat-square)
 ![](https://img.shields.io/badge/Small%20Molecule%20Design-20B2AA?style=flat-square)
